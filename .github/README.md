@@ -1,13 +1,13 @@
 # Panapeepo-Language
 
-![License](https://img.shields.io/github/license/robertschuck/Panapeepo-language.svg)
-![Contributors](https://img.shields.io/github/contributors/robertschuck/Panapeepo-language.svg)
-![Last_Commit](https://img.shields.io/github/last-commit/robertschuck/Panapeepo-language.svg)
+![License](https://img.shields.io/github/license/panapeepo/Panapeepo-language.svg)
+![Contributors](https://img.shields.io/github/contributors/panapeepo/Panapeepo-language.svg)
+![Last_Commit](https://img.shields.io/github/last-commit/panapeepo/Panapeepo-language.svg)
 
-![Issues](https://img.shields.io/github/issues/robertschuck/Panapeepo-language.svg)
-![Closed_Issues](https://img.shields.io/github/issues-closed/robertschuck/Panapeepo-language.svg)
-![PRS](https://img.shields.io/github/issues-pr/robertschuck/Panapeepo-language.svg)
-![PRS_Closed](https://img.shields.io/github/issues-pr-closed/robertschuck/Panapeepo-language.svg)
+![Issues](https://img.shields.io/github/issues/panapeepo/Panapeepo-language.svg)
+![Closed_Issues](https://img.shields.io/github/issues-closed/panapeepo/Panapeepo-language.svg)
+![PRS](https://img.shields.io/github/issues-pr/panapeepo/Panapeepo-language.svg)
+![PRS_Closed](https://img.shields.io/github/issues-pr-closed/panapeepo/Panapeepo-language.svg)
 
 ***
 
